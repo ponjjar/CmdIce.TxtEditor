@@ -6,3 +6,6 @@ Esse editor foi feito para um projeto, podendo alterar a fonte e adicionar image
 
 # Saída de arquivos
 Os arquivos são salvos em .html, assim é possivel acessar a pagina em qualquer dispositivo.
+
+# Setup
+Esse projeto foi feito utilizando o netbeans ide, basta compilar a tela principal importar o projeto em teu ambiente de trabalho.
