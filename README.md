@@ -19,11 +19,11 @@ Todos os comandos são feitos inserindo "pfv" no final do comando.
 
  fonte 18 negrito pfv
 
->> ...
+> ...
 
  fonte 14 italico pfv
 
->> ...
+> ...
 
 
 > ## Comandos de Imagens
