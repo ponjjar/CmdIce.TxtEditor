@@ -2,13 +2,13 @@
 Um editor de texto para todos e com inserção de comandos.
 
 # Como funciona?
-O editor foi feito para um projeto na area de linguagens de programação, podendo alterar a fonte e adicionar imagens costumizadas, tendo suporte a comentários em códigos.
+O editor foi feito para um projeto na area de linguagens de programação, podendo alterar a fonte e adicionar imagens customizadas, tendo suporte a comentários em códigos.
 
 # Saída de arquivos
 Os arquivos são salvos em .html, assim é possivel acessar a pagina em qualquer dispositivo.
 
 # Setup
-Esse projeto foi feito utilizando o netbeans ide, basta compilar a tela principal importar o projeto em teu ambiente de trabalho.
+Esse projeto foi feito utilizando o netbeans ide, basta compilar a tela principal importar o projeto em seu ambiente de trabalho.
 
 # Comandos
 Todos os comandos são feitos inserindo "pfv" no final do comando.
@@ -21,7 +21,7 @@ Todos os comandos são feitos inserindo "pfv" no final do comando.
 
 > ...
 
- fonte 14 italico pfv
+ fonte 14 itálico pfv
 
 > ...
 
